@@ -1,4 +1,4 @@
-# Dex by Dave — Your AI Chief of Staff
+# Your AI Chief of Staff
 
 **A personal operating system powered by Claude.** Strategic work management, meeting intelligence, relationship tracking, daily planning — all configured for your specific role. No coding required.
 
